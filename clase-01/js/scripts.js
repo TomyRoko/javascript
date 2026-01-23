@@ -10,5 +10,5 @@ console.log(`Mi nombre es: ${nombre} ${apellido}`);
 
 let texto = "Bienvenidos a la clase de JavaScript";
 let numero = 2024;
-let undefinido; 
+let indefinido; 
 

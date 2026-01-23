@@ -12,3 +12,8 @@ let texto = "Bienvenidos a la clase de JavaScript";
 let numero = 2024;
 let indefinido; 
 
+const precio= 19.99;
+let cantidad = 5;
+
+let total = precio * cantidad;
+console.log("El total es: " + total);

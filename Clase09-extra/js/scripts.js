@@ -67,3 +67,7 @@ for (let i = 1; i <= 10; i++) {
 personas.forEach((persona) => {
   console.log(persona.nombre + " tiene " + persona.edad + " años");
 });
+
+const lista = document.getElementById("lista");
+
+lista.innerHTML = "<li>Ana tiene 22 años</li>";

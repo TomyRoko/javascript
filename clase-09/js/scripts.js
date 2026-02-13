@@ -40,6 +40,9 @@ const mayorEdad = (edad) => {
 };
 
 
-persona.foreach((persona) => {
-  console.log : persona.nombre + "tiene" + persona.edad + "años"
+persona.forEach((persona) => {
+  console.log(persona.nombre + " tiene " + persona.edad + " años");
+
 });
+
+const  nombre = 
